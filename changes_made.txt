@@ -1,0 +1,6 @@
+1.a     <div class="search-engine-optimization">
+
+1.b     <div id="search-engine-optimization" class="search-engine-optimization">
+
+1.c     Div "class" was used instead of div "id" for the beginning part of the div code; and the second part of the code was missing. Div class was not added to this code
+        when it should have been.
